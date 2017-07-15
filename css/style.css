@@ -37,11 +37,11 @@ p{
 }
 ul{
 	padding:0 0;
-	margin:0 0;	
+	margin:0 0;
 }
 body{
 	padding:0 0;
-	margin:0 0; 
+	margin:0 0;
 	font-family: 'OpenSans-Regular'
 }
 .header-top {
@@ -71,7 +71,7 @@ body{
 	color:#fff;
 	font-size: 1.5em;
     font-family: 'Rancho-Regular';
-    text-transform: capitalize;
+    text-transform: none;
     letter-spacing: 2px;
 	line-height: .5em;
 
@@ -132,7 +132,7 @@ body{
 .navbar-collapse {
     max-height: 340px;
     padding-right: 0px;
-     padding-left: 0px; 
+     padding-left: 0px;
 }
 .header{
 	background:url(../images/banner1.jpg) no-repeat 0px 0px;
@@ -161,9 +161,9 @@ body{
 .rslides h3{
     color: #fff;
     font-size: 4em;
-    text-transform: capitalize;
+    text-transform: none;
 	font-family: 'Rancho-Regular';
-	
+
 }
 .rslides h3 span {
     color: #fff;
@@ -243,7 +243,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 .Welcome-section h2 {
     font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 }
@@ -252,7 +252,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 .welcome-grid h4 {
     font-size: 1.5em;
-    text-transform: capitalize;
+    text-transform: none;
     padding: 0.5em 0 0.4em;
     color: #222;
 }
@@ -278,7 +278,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 .features h3 {
    font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 }
@@ -293,7 +293,7 @@ ul.callbacks_tabs.callbacks1_tabs {
     font-size: 1.5em;
     color: #222;
     padding: 1em 0 0.5em;
-	text-transform: capitalize;
+	text-transform: none;
 }
 span.glyphicon.glyphicon-user,span.glyphicon.glyphicon-camera,span.glyphicon.glyphicon-calendar,span.glyphicon.glyphicon-gift {
     border-radius: 4em;
@@ -331,7 +331,7 @@ span.glyphicon.glyphicon-user:hover {
     background-image: -o-linear-gradient(top,#222,#222);
     background-image: linear-gradient(to bottom,#222,#222);
     background-repeat: repeat-x;
-	
+
 }
 span.glyphicon.glyphicon-camera:hover{
  background-color: #222;
@@ -408,7 +408,7 @@ ul#flexiselDemo1 li a h4{
 ul#flexiselDemo1 li a h4:hover{
 	color: #DBC585;
 }
-.nbs-flexisel-item > a img {	
+.nbs-flexisel-item > a img {
 	cursor: auto;
     position: relative;
     width: 100%;
@@ -435,7 +435,7 @@ ul#flexiselDemo1 li a h4:hover{
 }
 .popular-grid h3,.popular-grid1 h3  {
     font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 }
@@ -481,11 +481,11 @@ ul#flexiselDemo1 li a h4:hover{
 .touch-grid h4 {
     font-size: 1.5em;
     color: #222;
-    text-transform: capitalize;
+    text-transform: none;
 }
 .touch-section h3 {
     font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 }
@@ -517,7 +517,7 @@ ul#flexiselDemo1 li a h4:hover{
 	font-size: 1em;
 	color:#fff;
 	font-weight: 400;
-	text-transform: capitalize;
+	text-transform: none;
 }
 .footer-top a:hover {
 	color: #fff;
@@ -535,7 +535,7 @@ text-align:center;
 }
 .about-section h2 {
 	    font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
     margin-bottom: 0.5em;
@@ -545,7 +545,7 @@ text-align:center;
 }
 .about-section h5 {
     font-size: 1.2em;
-    text-transform: capitalize;
+    text-transform: none;
     color: #222;
     margin: 0.8em 0;
     font-weight: 600;
@@ -562,14 +562,14 @@ text-align:center;
 }
 .why-choose h3 {
   font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #fff;
 }
 .choose-grid h4{
   font-size: 1.5em;
   color: #fff;
-  text-transform: capitalize;
+  text-transform: none;
 }
 .choose-grid p{
 	font-size:1em;
@@ -586,14 +586,14 @@ text-align:center;
 }
 .ourteam h3 {
     font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 }
 .team-grid h4{
   font-size: 1.5em;
   color: #222;
-  text-transform: capitalize;
+  text-transform: none;
   margin: 0.5em 0 0.3em;
 }
 .team-grid p {
@@ -610,7 +610,7 @@ text-align:center;
 }
 .whatweoffer h3 {
  font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #fff;
 	text-align:center;
@@ -657,7 +657,7 @@ text-align:center;
 }
 .services-main h2 {
  font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 	text-align:center;
@@ -667,7 +667,7 @@ text-align:center;
 }
 .serv-text h4 {
   color: #5ab645;
-    text-transform: capitalize;
+    text-transform: none;
     font-weight: 600;
 	font-size:1.5em;
 }
@@ -679,7 +679,7 @@ text-align:center;
 }
 .packages-section h3 {
     font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 }
@@ -691,7 +691,7 @@ text-align:center;
     font-size: 1.5em;
     color: #222;
     padding: 0.5em 0;
-    text-transform: capitalize;
+    text-transform: none;
 }
 .packages-grid p {
     font-size: 1em;
@@ -708,7 +708,7 @@ text-align:center;
 }
 .gallery h2 {
     font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 }
@@ -726,7 +726,7 @@ text-align:center;
 }
 .gallery-info h2 {
     font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 }
@@ -761,7 +761,7 @@ text-align:center;
 }
 .room-section h2 {
     font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
     text-align: center;
@@ -776,7 +776,7 @@ text-align:center;
   font-size: 1.5em;
   color: #5ab645;
     font-weight: 600;
-  text-transform: capitalize;
+  text-transform: none;
 }
 .room-grid img {
     width: 100%;
@@ -816,7 +816,7 @@ img.zoom-img:hover {
 }
 h2.type {
     font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 }
@@ -857,7 +857,7 @@ h2.type {
   border-radius:4px;
   -webkit-border-radius:4px;
 	-moz-border-radius:4px;
-}  
+}
 .grid_5{
 	background:none;
 	padding:2em 0;
@@ -1051,7 +1051,7 @@ h2.typoh2{
 }
 .contact h2 {
 	font-size: 3.5em;
-    text-transform: capitalize;
+    text-transform: none;
     font-family: 'Rancho-Regular';
     color: #222;
 	text-align:center;
@@ -1083,7 +1083,7 @@ address {
 	font-weight: 400;
 	padding: 10px 0;
 	color: #222;
-	
+
 }
 .contact-right input[type="text"] {
 	width: 100%;
